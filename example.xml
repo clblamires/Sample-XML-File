@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <events>
+        <event>
+            <starttime></starttime>
+            <endtime></endtime>
+            <date></date>
+            <title></title>
+            <description></description>
+        </event>
+        <event>
+            <starttime></starttime>
+            <endtime></endtime>
+            <date></date>
+            <title></title>
+            <description></description>
+        </event>
+        <event>
+            <starttime></starttime>
+            <endtime></endtime>
+            <date></date>
+            <title></title>
+            <description></description>
+        </event>
+        <event>
+            <starttime></starttime>
+            <endtime></endtime>
+            <date></date>
+            <title></title>
+            <description></description>
+        </event>
+        <event>
+            <starttime></starttime>
+            <endtime></endtime>
+            <date></date>
+            <title></title>
+            <description></description>
+        </event>
+    </events>
+</root>
